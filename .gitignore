@@ -29,3 +29,5 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+
+**/[Aa]ssets/AssetStoreTools*
